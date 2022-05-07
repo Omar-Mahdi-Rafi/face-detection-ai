@@ -3,4 +3,4 @@ This is a web application for real time face detection through any webcam or pho
 
 
 ## Visit site 
-https://omr-facedetector-ai.netlify.app/
+https://omr-facedetection-ai.netlify.app/
